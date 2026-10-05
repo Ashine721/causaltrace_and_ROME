@@ -3,7 +3,7 @@
 ## Overview
 This report focuses on the analysis of the paper *"Locating and Editing Factual Associations in GPT"*[cite: 3]. It provides an in-depth exploration of two key techniques: **Causal Tracing** and **ROME** (Rank-One Model Editing)[cite: 3]. The methodology first utilizes Causal Tracing to identify the critical components within the input sentences and the transformer modules[cite: 3]. Subsequently, ROME is applied to execute precise modifications on these specific targeted parts[cite: 3].
 
-## 🧪 Verification & Implementation
+## Verification & Implementation
 The experimental verification is structured into three main discussion sections[cite: 3]:
 
 *   **`rome1.ipynb`**: Utilizes the `gpt2-xl` model[cite: 3].
